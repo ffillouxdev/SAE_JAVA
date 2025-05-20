@@ -4,7 +4,7 @@ Ce projet est une application Java Swing développée dans le cadre d'une SAE (S
 Elle permet de visualiser l'espace aérien français en utilisant des concepts de la théorie des graphes.  
 L'interface graphique offre une représentation interactive des aéroports et des routes aériennes.
 
-!(https://portfolio-template-web.vercel.app/_next/image?url=%2Fassets%2Fproject%2Fffr-plane%2Fffr-screen2.png&w=828&q=75)
+![maquettes](https://portfolio-template-web.vercel.app/_next/image?url=%2Fassets%2Fproject%2Fffr-plane%2Fffr-screen2.png&w=828&q=75)
 
 ## 🚀 Fonctionnalités
 
